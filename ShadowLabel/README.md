@@ -1,2 +1,2 @@
-# cocos_creator_extension
-Cocos Creator Extension
+# ShadowLabel 文字陰影組件
+ShadowLabelTS.ts
